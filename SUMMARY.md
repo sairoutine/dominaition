@@ -1,0 +1,10 @@
+# Summary
+* [カリスマ](docs/1.md)
+* [権力](docs/2.md)
+* [支配](docs/3.md)
+* [宗教](docs/4.md)
+* [神](docs/5.md)
+* [レミリア・スカーレット](docs/6.md)
+* [八坂神奈子と洩矢諏訪子](docs/7.md)
+* [聖白蓮](docs/8.md)
+* [豊聡耳神子](docs/9.md)
